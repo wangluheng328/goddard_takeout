@@ -1,4 +1,4 @@
-# goddard_takeout
+# Goddard Ordering Management System
 
 ### Introduction
 
