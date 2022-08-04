@@ -4,7 +4,7 @@
 
 This is a food ordering platform application, and it contains two ends: web end for admin purposes (such as launching new dishes, managing employees, 
 managing incoming orders, etc.) and mobile end for customers (allowing actions such as adding dish to shopping cart, placing orders, etc.). 
-The application is developed based on Spring Boot, MyBatis Plus for back end and VUE (element UI) for front end.
+This application is developed based on Spring Boot, MyBatis Plus for the back end and VUE (element UI) for the front end.
 
 ### Project Purpose
 
