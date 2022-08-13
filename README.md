@@ -10,7 +10,7 @@ This application is developed based on Spring Boot, MyBatis Plus for the back en
 
 I myself focused on the back end development with Spring and how it gets and sends data from and to the frontend.
 **I demonstrate my experience on Spring Boot, Spring MVC and MyBatis Plus, and also my understanding of advanced designs of full stack application,
-such as how ad why to incorporate DAOs, how to decouple components in the app, and the benefits of difference persistence layer frameworks/technologies (Hibernate, MyBatis, MyBatis Plus, etc.).**
+such as how ad why to incorporate DAOs, how to decouple components in the app, and the benefits of different persistence layer frameworks/technologies (Hibernate, MyBatis, MyBatis Plus, etc.).**
 I'm also involved in developing a few parts of the front end.
 
 
