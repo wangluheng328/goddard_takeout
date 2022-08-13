@@ -16,6 +16,11 @@ I'm also involved in developing a few parts of the front end.
 
 ### Technologies Used
 
+- Spring {Boot, MVC, Cache}
+- MyBatis Plus
+- Redis
+- MySQL
+- VUE (Element UI)
 
 ### Benefits of MyBatis Plus
 
@@ -27,3 +32,5 @@ in the controllers with the help of the built-in class `Page`. Furthermore, MyBa
 
 
 ### Instruction for Use
+
+Please see the demo running on AWS EC2 server
